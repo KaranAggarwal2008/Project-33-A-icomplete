@@ -4,8 +4,8 @@ var dogIMG;
 var dogIMGtrouble;
 
 function preload(){
-dogIMG = loadImage("images/dogImg.png");
-dogIMGtrouble = loadImage("images/dogImg1.png")
+dogIMG = loadImage("dogImg.png");
+dogIMGtrouble = loadImage("dogImg1.png")
 }
 function setup(){
   database = firebase.database();
