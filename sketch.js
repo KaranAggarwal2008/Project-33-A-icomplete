@@ -31,7 +31,6 @@ function draw(){
        writefoodLeft(-1)
        dog.addImage(dogIMGtrouble)
      }
-     //i
     }else{
       dog.addImage(dogIMG)
     }
